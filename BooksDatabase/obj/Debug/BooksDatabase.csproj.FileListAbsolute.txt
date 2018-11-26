@@ -1,0 +1,10 @@
+C:\Users\Alia\source\repos\BooksDatabase\BooksDatabase\bin\Debug\BooksDatabase.exe.config
+C:\Users\Alia\source\repos\BooksDatabase\BooksDatabase\bin\Debug\BooksDatabase.exe
+C:\Users\Alia\source\repos\BooksDatabase\BooksDatabase\bin\Debug\BooksDatabase.pdb
+C:\Users\Alia\source\repos\BooksDatabase\BooksDatabase\obj\Debug\BooksDatabase.csprojAssemblyReference.cache
+C:\Users\Alia\source\repos\BooksDatabase\BooksDatabase\obj\Debug\BooksDatabase.Form1.resources
+C:\Users\Alia\source\repos\BooksDatabase\BooksDatabase\obj\Debug\BooksDatabase.Properties.Resources.resources
+C:\Users\Alia\source\repos\BooksDatabase\BooksDatabase\obj\Debug\BooksDatabase.csproj.GenerateResource.cache
+C:\Users\Alia\source\repos\BooksDatabase\BooksDatabase\obj\Debug\BooksDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Alia\source\repos\BooksDatabase\BooksDatabase\obj\Debug\BooksDatabase.exe
+C:\Users\Alia\source\repos\BooksDatabase\BooksDatabase\obj\Debug\BooksDatabase.pdb
